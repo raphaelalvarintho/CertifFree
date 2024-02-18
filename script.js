@@ -4,7 +4,9 @@ function setActiveLink() {
     var currentPage = window.location.pathname.split('/').pop();
 
     links.forEach(function(link) {
-        if ((link.textContent === "Home" && currentPage === "index.html") ||
+        if (
+          (link.textContent === "" && currentPage === "index.html") ||
+          (link.textContent === "Home" && currentPage === "index.html") ||
             (link.textContent === "Sobre" && currentPage === "sobre.html")) {
             link.classList.add('active');
         }
