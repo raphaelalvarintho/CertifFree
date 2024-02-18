@@ -1,12 +1,11 @@
 // Função para adicionar classe 'active' ao link correspondente à página atual
 function setActiveLink() {
     var links = document.querySelectorAll('.navLink');
-    var currentPage = window.location.pathname.split('/').pop();
+    var currentPage = window.location.pathname;
 
     links.forEach(function(link) {
         if (
-          (link.textContent === "" && currentPage === "index.html") ||
-          (link.textContent === "Home" && currentPage === "index.html") ||
+          (link.textContent === "Home" && currentPage.endsWith("/")) ||
             (link.textContent === "Sobre" && currentPage === "sobre.html")) {
             link.classList.add('active');
         }
