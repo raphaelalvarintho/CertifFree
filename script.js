@@ -11,6 +11,8 @@ function setActiveLink() {
     });
 }
 
+document.addEventListener('DOMContentLoaded', setActiveLink);
+
 // Incluindo o header.html
 fetch('header.html')
     .then(response => response.text())
@@ -19,14 +21,6 @@ fetch('header.html')
         setActiveLink(); // Chama a função para definir o link ativo após carregar o header
     });
 
-
-
-// Incluindo o carrousel.html
-fetch('carrossel.html')
-    .then(response => response.text())
-    .then(html => {
-        document.getElementById('carousel-container').innerHTML = html;
-    });
 
 
     var cards = [
