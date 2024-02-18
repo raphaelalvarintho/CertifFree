@@ -1,28 +1,3 @@
-// Função para adicionar classe 'active' ao link correspondente à página atual
-function setActiveLink() {
-    var links = document.querySelectorAll('.navLink');
-    var currentPage = window.location.pathname;
-
-    links.forEach(function(link) {
-        if (
-          (link.textContent === "Home" && currentPage.endsWith("/")) ||
-            (link.textContent === "Sobre" && currentPage === "sobre.html")) {
-            link.classList.add('active');
-        }
-    });
-}
-
-document.addEventListener('DOMContentLoaded', setActiveLink);
-
-// Incluindo o header.html
-fetch('header.html')
-    .then(response => response.text())
-    .then(html => {
-        document.getElementById('header').innerHTML = html;
-        setActiveLink(); // Chama a função para definir o link ativo após carregar o header
-    });
-
-
 
     var cards = [
         {
@@ -52,11 +27,35 @@ fetch('header.html')
       ];
 
 
-  // Obtendo o container dos cards
-var postContainer = document.querySelector('.post.container');
+      var carrossel = [
+        {
+          Imagem:"img/Desec.PNG",
+          Link:"https://www.ev.org.br/"
+        },
+        {
+          Imagem:"img/BaltaIo.PNG",
+          Link:"https://balta.io/"
+        },
+        {
+          Imagem:"img/Dio..PNG",
+          Link:"https://www.dio.me/"
+        }
+
+      ]
+
+
+
+ // Obtendo o container dos cards
+var postContainer = document.querySelector('.post.contain');
 
 // Criando os cards dinamicamente
 cards.forEach(function(card) {
+  // Criando o elemento de link
+  var link = document.createElement('a');
+  link.target = "_blank";
+  link.href = card.Link; 
+  link.classList.add('post-link'); // Adicione uma classe ao link se necessário
+  
   // Criando elementos HTML para o card
   var postBox = document.createElement('div');
   postBox.classList.add('post-box');
@@ -64,10 +63,9 @@ cards.forEach(function(card) {
   var imagem = document.createElement('img');
   imagem.src = card.Imagem; 
   
-  var link = document.createElement('a');
-  link.href = card.Link; 
-  link.classList.add('post-title');
-  link.textContent = card.TituloLink; 
+  var titulo = document.createElement('h2'); // Ou o nível de cabeçalho apropriado
+  titulo.classList.add('post-title');
+  titulo.textContent = card.TituloLink; 
   
   var subtitulo = document.createElement('h5');
   subtitulo.textContent = card.Subtitulo; 
@@ -89,10 +87,14 @@ cards.forEach(function(card) {
   profile.appendChild(nomeEmpresa);
   
   postBox.appendChild(imagem);
-  postBox.appendChild(link);
+  postBox.appendChild(titulo);
   postBox.appendChild(subtitulo);
   postBox.appendChild(profile);
   
-  // Adicionando o postBox ao container de cards
-  postContainer.appendChild(postBox);
+  // Adicionando o postBox como filho do link
+  link.appendChild(postBox);
+  
+  // Adicionando o link ao container de cards
+  postContainer.appendChild(link);
 });
+
