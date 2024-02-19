@@ -53,6 +53,11 @@ section{
     width: 100%;
 }
 
+.container .justify-content-end .btn-dark{
+    background: var(--second-color);
+   }
+   
+
 header{
     position: fixed;
     top: 0;
@@ -73,6 +78,7 @@ header{
     font-weight: 600;
     color: #bdc3c7;
 }
+
 .logo span{
     color: var(--second-color);
 }
