@@ -131,7 +131,6 @@ header{
     text-decoration:none;
    }
    
-   /* Post link */
    .post .post-link{
     color:#0e0e0f;
     text-decoration:none;
@@ -153,6 +152,12 @@ header{
     font-weight:300;
     font-size:16px;
    }
+
+   .post .post-box h2{
+    position:relative;
+    top:4px;
+   }
+     
 .post-img{
     width: 100%;
     height: 200px;
@@ -169,8 +174,7 @@ header{
    .post .profile span{
     font-weight:600;
    }
-
-.post-title{
+ .post-title{
      font-size: 1.3rem;
     font-weight: 600;
     color: var(--text-color);
