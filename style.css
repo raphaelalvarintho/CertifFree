@@ -24,16 +24,7 @@
     display: none;
 }
 
-/* Body */
-body{
-    background-image:linear-gradient(to right, #e8cbc0 0%, #636fa4 100%);
-   }
-   
-   /* Post box */
-   .post .post-link .post-box{
-    transform:translatex(0px) translatey(0px) !important;
-    background-image:linear-gradient(to right, #e8cbc0 0%, #636fa4 100%);
-   }
+
 
 
 .post .ver-mais-link{
