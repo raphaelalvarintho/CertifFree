@@ -20,6 +20,34 @@
     background: var(--second-color);
 }
 
+.post-link.hidden {
+    display: none;
+}
+
+/* Body */
+body{
+    background-image:linear-gradient(to right, #e8cbc0 0%, #636fa4 100%);
+   }
+   
+   /* Post box */
+   .post .post-link .post-box{
+    transform:translatex(0px) translatey(0px) !important;
+    background-image:linear-gradient(to right, #e8cbc0 0%, #636fa4 100%);
+   }
+
+
+.post .ver-mais-link{
+    display: block;
+    margin: 0 auto;
+    color:black;
+
+   }
+
+   #ver-mais-button{
+    background-image:linear-gradient(-90deg, #abbaab 0%, #ffffff 100%);
+    background-size:auto;
+   }
+
 .c-item {
     height: 480px;
   }

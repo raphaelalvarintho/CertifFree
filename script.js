@@ -1,55 +1,170 @@
 
+    
     var cards = [
         {
-          Imagem: "img/bradesco.PNG",
+          Imagem: "img/certificados/1 - Hackes do Bem - Cibersegurança.png",
+          Link: "https://hackersdobem.org.br/",
+          TituloLink: "Certificado com a Dio.",
+          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
+          Logo: "img/LogoBradesco.jpg",
+          NomeEmpresa: "Dio."
+        },
+        {
+          Imagem: "img/certificados/2 - Certificado Fortinet NSE1+NSE2+NSE3.PNG",
+          Link: "https://www.dio.me/",
+          TituloLink: "Certificado com a Dio.",
+          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
+          Logo: "img/LogoBradesco.jpg",
+          NomeEmpresa: "Dio."
+        },
+        {
+          Imagem: "img/certificados/3 - Fundação Bradesco - Certificações em Tecnologia.png",
           Link: "https://www.ev.org.br/",
-          TituloLink: "Certificado com a Bradesco",
+          TituloLink: "Certificações em Tecnologia",
           Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
           Logo: "img/LogoBradesco.jpg",
           NomeEmpresa: "Bradesco"
         },
         {
-          Imagem: "img/BaltaIo.PNG",
-          Link: "https://balta.io/",
-          TituloLink: "Certificado com a Balta.io",
-          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
-          Logo: "img/BaltaIoLogo.jpg",
-          NomeEmpresa: "Balta.io"
-        },
-        {
-          Imagem: "img/Dio..PNG",
+          Imagem: "img/certificados/4 - IBSEC - CYBERSECURITY - REDES - INFORMÁTICA.png",
           Link: "https://www.dio.me/",
           TituloLink: "Certificado com a Dio.",
           Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
-          Logo: "img/Dio.Logo.png",
+          Logo: "img/LogoBradesco.jpg",
           NomeEmpresa: "Dio."
-        }
+        },
+        {
+          Imagem: "img/certificados/5 - ORACLE OCI.jpg",
+          Link: "https://www.oracle.com/br/education/oracle-next-education/",
+          TituloLink: "Certificado com a Dio.",
+          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
+          Logo: "img/LogoBradesco.jpg",
+          NomeEmpresa: "Dio."
+        },
+        {
+          Imagem: "img/certificados/6 - API Academy - Certificação em API.PNG",
+          Link: "https://www.dio.me/",
+          TituloLink: "Certificado com a Dio.",
+          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
+          Logo: "img/LogoBradesco.jpg",
+          NomeEmpresa: "Dio."
+        },
+        {
+          Imagem: "img/certificados/7 - Certificado Oracle + Alura.png",
+          Link: "https://www.dio.me/",
+          TituloLink: "Certificado com a Dio.",
+          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
+          Logo: "img/LogoBradesco.jpg",
+          NomeEmpresa: "Dio."
+        },
+        {
+          Imagem: "img/certificados/8 - Certified - Scrum Fundamentals Certified.jpg",
+          Link: "https://www.dio.me/",
+          TituloLink: "Certificado com a Dio.",
+          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
+          Logo: "img/LogoBradesco.jpg",
+          NomeEmpresa: "Dio."
+        },
+        {
+          Imagem: "img/certificados/9 - CertiProf - Fundamentos Na Lei Geral De Proteção De Dados.PNG",
+          Link: "https://www.dio.me/",
+          TituloLink: "Certificado com a Dio.",
+          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
+          Logo: "img/LogoBradesco.jpg",
+          NomeEmpresa: "Dio."
+        },
+        {
+          Imagem: "img/certificados/10 - DESEC - INTRODUÇÃO AO PENTEST NA PRÁTICA.jpg",
+          Link: "https://balta.io/",
+          TituloLink: "INTRODUÇÃO AO PENTEST NA PRÁTICA",
+          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
+          Logo: "img/LogoBradesco.jpg",
+          NomeEmpresa: "Balta.io"
+        },
+        {
+          Imagem: "img/certificados/11 - IBM - CYBERSECURITY FUNDAMENTALS.PNG",
+          Link: "https://balta.io/",
+          TituloLink: "INTRODUÇÃO AO PENTEST NA PRÁTICA",
+          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
+          Logo: "img/LogoBradesco.jpg",
+          NomeEmpresa: "Balta.io"
+        },
+        {
+          Imagem: "img/certificados/12 - Segurança Cibernética ISC2.PNG",
+          Link: "https://balta.io/",
+          TituloLink: "INTRODUÇÃO AO PENTEST NA PRÁTICA",
+          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
+          Logo: "img/LogoBradesco.jpg",
+          NomeEmpresa: "Balta.io"
+        },   
+        {
+          Imagem: "img/certificados/13 - SkillFront - ISO-IEC 27001 Information Security Associate.PNG",
+          Link: "https://balta.io/",
+          TituloLink: "INTRODUÇÃO AO PENTEST NA PRÁTICA",
+          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
+          Logo: "img/LogoBradesco.jpg",
+          NomeEmpresa: "Balta.io"
+        },
+        {
+          Imagem: "img/certificados/14 - SOLYD - Introdução ao Hacking e Pentest 2.0.PNG",
+          Link: "https://balta.io/",
+          TituloLink: "INTRODUÇÃO AO PENTEST NA PRÁTICA",
+          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
+          Logo: "img/LogoBradesco.jpg",
+          NomeEmpresa: "Balta.io"
+        },
+        {
+          Imagem: "img/certificados/15 - SOLYD - PYTHON.PNG",
+          Link: "https://balta.io/",
+          TituloLink: "INTRODUÇÃO AO PENTEST NA PRÁTICA",
+          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
+          Logo: "img/LogoBradesco.jpg",
+          NomeEmpresa: "Balta.io"
+        },
+        {
+          Imagem: "img/certificados/16 - WOMCY - Programa de Educação e Certificação de Segurança Cibernética.PNG",
+          Link: "https://balta.io/",
+          TituloLink: "INTRODUÇÃO AO PENTEST NA PRÁTICA",
+          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
+          Logo: "img/LogoBradesco.jpg",
+          NomeEmpresa: "Balta.io"
+        },
+
+
+        
+
       ];
 
 
-      var carrossel = [
-        {
-          Imagem:"img/Desec.PNG",
-          Link:"https://www.ev.org.br/"
-        },
-        {
-          Imagem:"img/BaltaIo.PNG",
-          Link:"https://balta.io/"
-        },
-        {
-          Imagem:"img/Dio..PNG",
-          Link:"https://www.dio.me/"
-        }
-
-      ]
-
-
-
- // Obtendo o container dos cards
+    
+// Obtendo o container dos cards
 var postContainer = document.querySelector('.post.contain');
 
+// Variável para controlar se todos os cards estão visíveis ou não
+var allCardsVisible = false;
+
+// Função para mostrar os cards restantes
+function showMoreCards() {
+   // Contador para acompanhar o número de cards ocultos mostrados
+   var hiddenCardsShown = 0;
+
+   // Seleciona todos os cards ocultos e remove a classe hidden
+   document.querySelectorAll('.post-link.hidden').forEach(function(card) {
+       card.classList.remove('hidden');
+       hiddenCardsShown++;
+   });
+  // Remove o botão "Ver mais"
+  document.querySelector('.ver-mais-link').remove();
+  // Atualiza a variável de controle
+  allCardsVisible = true;
+}
+
+
+
+
+
 // Criando os cards dinamicamente
-cards.forEach(function(card) {
+cards.forEach(function(card, index) {
   // Criando o elemento de link
   var link = document.createElement('a');
   link.target = "_blank";
@@ -96,5 +211,10 @@ cards.forEach(function(card) {
   
   // Adicionando o link ao container de cards
   postContainer.appendChild(link);
+
+
+  if (index > 8) {
+    link.classList.add('hidden');
+} 
 });
 
