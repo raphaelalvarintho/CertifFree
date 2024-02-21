@@ -24,21 +24,6 @@
     display: none;
 }
 
-
-
-
-.post .ver-mais-link{
-    display: block;
-    margin: 0 auto;
-    color:black;
-
-   }
-
-   #ver-mais-button{
-    background-image:linear-gradient(-90deg, #abbaab 0%, #ffffff 100%);
-    background-size:auto;
-   }
-
 .c-item {
     height: 480px;
   }
@@ -175,6 +160,21 @@ header{
    .post .post-box h2{
     position:relative;
     top:4px;
+   }
+
+   #ver-mais-button {
+    display: block;
+    margin: 0 auto; /* Isso centraliza o botão horizontalmente */
+    background: var(--second-color);
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+   #ver-mais-button:hover{
+    background-color:rgb(59, 59, 59) !important;
    }
      
 .post-img{

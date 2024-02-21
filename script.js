@@ -134,9 +134,7 @@
         
 
       ];
-
-
-    
+   
 // Obtendo o container dos cards
 var postContainer = document.querySelector('.post.contain');
 
@@ -154,7 +152,7 @@ function showMoreCards() {
        hiddenCardsShown++;
    });
   // Remove o botão "Ver mais"
-  document.querySelector('.ver-mais-link').remove();
+  document.getElementById('ver-mais-button').style.display = 'none';
   // Atualiza a variável de controle
   allCardsVisible = true;
 }
