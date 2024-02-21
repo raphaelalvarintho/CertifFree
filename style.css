@@ -25,13 +25,24 @@
 }
 
 .c-item {
-    height: 600px;
+    height: 500px;
   }
   
   .c-img {
     height: 100%;
     object-fit: cover;
   }
+
+  @media (max-width: 768px) {
+    .c-item {
+        height: auto;
+    }
+    .carousel-control-prev,
+    .carousel-control-next {
+        display: none; /* Ocultar os botões de controle */
+    }
+
+  }  
 
   #hero-carousel .carousel-item .btn-dark{
     background: var(--second-color);
