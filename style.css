@@ -25,13 +25,12 @@
 }
 
 .c-item {
-    height: 480px;
+    height: 600px;
   }
   
   .c-img {
     height: 100%;
     object-fit: cover;
-    filter: brightness(0.6);
   }
 
   #hero-carousel .carousel-item .btn-dark{
@@ -146,7 +145,7 @@ header{
     justify-content: center;
     gap: 1.5rem;
 }
-.post-box{
+.post .post-link .post-box{
     background: var(--bg-color);
     box-shadow: 0 4px 14px hsl(355deg 25% 15% / 10%);
     padding: 15px;
