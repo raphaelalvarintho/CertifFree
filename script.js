@@ -10,7 +10,7 @@
           NomeEmpresa: "Dio."
         },
         {
-          Imagem: "img/certificados/2 - Certificado Fortinet NSE1+NSE2+NSE3.PNG",
+          Imagem: "img/certificados/2 - Certificado Fortinet.PNG",
           Link: "https://www.dio.me/",
           TituloLink: "Certificado com a Dio.",
           Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
@@ -50,7 +50,7 @@
           NomeEmpresa: "Dio."
         },
         {
-          Imagem: "img/certificados/7 - Certificado Oracle + Alura.png",
+          Imagem: "img/certificados/7 - Certificado OracleAlura.png",
           Link: "https://www.dio.me/",
           TituloLink: "Certificado com a Dio.",
           Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
