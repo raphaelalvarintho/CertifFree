@@ -227,13 +227,6 @@ header{
     border: 2px solid var(--second-color);
 }
 
-.carousel-slide {
-    width: 100%;
-}
-
-.carousel-slide img {
-    width: 100%;
-}
 
 .profile-area{
     padding: 80px 0;
