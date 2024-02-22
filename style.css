@@ -24,29 +24,20 @@
     display: none;
 }
 
-.c-item {
-    height: 500px;
+.carousel-item {
+    height: 480px;
   }
   
-  .c-img {
+  .carousel-item img {
     height: 100%;
     object-fit: cover;
   }
 
   @media (max-width: 768px) {
-    .c-item {
+    .carousel-item {
         height: auto;
     }
-    .carousel-control-prev,
-    .carousel-control-next {
-        display: none; /* Ocultar os botões de controle */
-    }
-
   }  
-
-  #hero-carousel .carousel-item .btn-dark{
-    background: var(--second-color);
-   }
 
 a{
     text-decoration: none;
