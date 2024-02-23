@@ -37,6 +37,12 @@
     .carousel-item {
         height: auto;
     }
+    .post .post-link .post-box{
+        width:70% !important;
+        height: 300px;
+        position: relative;
+        left: 60px;
+    }
   }  
 
 a{
