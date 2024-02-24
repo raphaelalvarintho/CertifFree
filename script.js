@@ -6,7 +6,7 @@
           Link: "https://hackersdobem.org.br/",
           TituloLink: "Cibersegurança",
           Subtitulo: "Aprenda a ser um profissional da área do futuro!",
-          Logo: "/img/logoEmpresas/HackerDoBemlogo.png",
+          Logo: "/img/logoEmpresas/HackerDoBemlogo.jpg",
           NomeEmpresa: "Hackers do Bem"
         },
         {
@@ -37,7 +37,7 @@
           Imagem: "img/certificados/5 - ORACLE OCI.jpg",
           Link: "https://education.oracle.com/oracle-oci-certification#oracle-cloud-infrastructure",
           TituloLink: "Oracle Cloud Infrastructure",
-          Subtitulo: "Confira aqui as 3 Certificações Oracle",
+          Subtitulo: "Confira aqui as 3 Certificações Oracle Infrastructure",
           Logo: "img/logoEmpresas/OracleLogo.png",
           NomeEmpresa: "ORACLE"
         },
@@ -63,6 +63,14 @@
           Subtitulo: "Confira aqui os Certificados em Tecnologia do Gustavo Guanabara",
           Logo: "img/logoEmpresas/cursoEmVideo.png",
           NomeEmpresa: "Curso em Vídeo"
+        },
+        {
+          Imagem: "img/certificados/instituto-federal-de-educacao-ciencia-e-tecnologia-do-rio-grande-do-sul.png",
+          Link: "https://moodle.ifrs.edu.br/",
+          TituloLink: "Certificados em Tecnologia",
+          Subtitulo: "Confira aqui os Certificados em Tecnologia pela IFRS",
+          Logo: "img/logoEmpresas/ifLogo.webp",
+          NomeEmpresa: "Instituto Federal"
         },
          {
           Imagem: "img/certificados/AWS + BOTICARIO.png",
