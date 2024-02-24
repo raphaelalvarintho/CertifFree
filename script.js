@@ -4,130 +4,145 @@
         {
           Imagem: "img/certificados/1 - Hackes do Bem - Cibersegurança.png",
           Link: "https://hackersdobem.org.br/",
-          TituloLink: "Certificado com a Dio.",
-          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
-          Logo: "img/LogoBradesco.jpg",
-          NomeEmpresa: "Dio."
+          TituloLink: "Cibersegurança",
+          Subtitulo: "Aprenda a ser um profissional da área do futuro!",
+          Logo: "/img/logoEmpresas/HackerDoBemlogo.png",
+          NomeEmpresa: "Hackers do Bem"
         },
         {
           Imagem: "img/certificados/2 - Certificado Fortinet.PNG",
-          Link: "https://www.dio.me/",
-          TituloLink: "Certificado com a Dio.",
-          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
-          Logo: "img/LogoBradesco.jpg",
-          NomeEmpresa: "Dio."
+          Link: "https://www.fortinet.com/br/training/cybersecurity-professionals",
+          TituloLink: "Segurança de Rede",
+          Subtitulo: "Confira aqui as Certicações Fortinet NSE1+NSE2+NSE3",
+          Logo: "img/logoEmpresas/FortinetLogo.png",
+          NomeEmpresa: "Fortinet"
         },
         {
           Imagem: "img/certificados/3 - Fundação Bradesco - Certificações em Tecnologia.png",
           Link: "https://www.ev.org.br/",
-          TituloLink: "Certificações em Tecnologia",
-          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
-          Logo: "img/LogoBradesco.jpg",
-          NomeEmpresa: "Bradesco"
+          TituloLink: "Certificados em Tecnologia",
+          Subtitulo: "Confira aqui as 18 Certificações em Tecnologia",
+          Logo: "img/logoEmpresas/LogoBradesco.jpg",
+          NomeEmpresa: "Fundação Bradesco"
         },
         {
           Imagem: "img/certificados/4 - IBSEC - CYBERSECURITY - REDES - INFORMÁTICA.png",
-          Link: "https://www.dio.me/",
-          TituloLink: "Certificado com a Dio.",
-          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
-          Logo: "img/LogoBradesco.jpg",
-          NomeEmpresa: "Dio."
+          Link: "https://certs.ibsec.com.br/",
+          TituloLink: "Certificações em Cibersegurança",
+          Subtitulo: "Cnfira aqui as 12 Certifições em Cibersegurança",
+          Logo: "img/logoEmpresas/IbsecLogo.png",
+          NomeEmpresa: "IBSEC"
         },
         {
           Imagem: "img/certificados/5 - ORACLE OCI.jpg",
-          Link: "https://www.oracle.com/br/education/oracle-next-education/",
-          TituloLink: "Certificado com a Dio.",
-          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
-          Logo: "img/LogoBradesco.jpg",
-          NomeEmpresa: "Dio."
+          Link: "https://education.oracle.com/oracle-oci-certification#oracle-cloud-infrastructure",
+          TituloLink: "Oracle Cloud Infrastructure",
+          Subtitulo: "Confira aqui as 3 Certificações Oracle",
+          Logo: "img/logoEmpresas/OracleLogo.png",
+          NomeEmpresa: "ORACLE"
         },
         {
           Imagem: "img/certificados/6 - API Academy - Certificação em API.PNG",
-          Link: "https://www.dio.me/",
-          TituloLink: "Certificado com a Dio.",
-          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
-          Logo: "img/LogoBradesco.jpg",
-          NomeEmpresa: "Dio."
+          Link: "https://apiacademy.co/api-certification/",
+          TituloLink: "Certificação em API",
+          Subtitulo: "Confira aqui as 3 Certifições em API",
+          Logo: "img/logoEmpresas/api_academy_logo.jpg",
+          NomeEmpresa: "API Academy"
         },
         {
           Imagem: "img/certificados/7 - Certificado OracleAlura.png",
-          Link: "https://www.dio.me/",
-          TituloLink: "Certificado com a Dio.",
-          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
-          Logo: "img/LogoBradesco.jpg",
-          NomeEmpresa: "Dio."
+          Link: "https://www.oracle.com/br/education/oracle-next-education/",
+          TituloLink: "Certificado Oracle + Alura.",
+          Subtitulo: "Mias de 100 Certificados em Tecnologia ministrados pela Alura",
+          Logo: "img/logoEmpresas/OracleLogo.png",
+          NomeEmpresa: "Alura"
         },
         {
           Imagem: "img/certificados/8 - Certified - Scrum Fundamentals Certified.jpg",
-          Link: "https://www.dio.me/",
-          TituloLink: "Certificado com a Dio.",
-          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
-          Logo: "img/LogoBradesco.jpg",
-          NomeEmpresa: "Dio."
+          Link: "https://www.scrumstudy.com/portuguese/scrum-fundamentals-certified",
+          TituloLink: "Scrum Fundamentals Certified",
+          Subtitulo: "Confira aqui a Certificação em Scrum",
+          Logo: "img/logoEmpresas/ScrumLogo.png",
+          NomeEmpresa: "Certified"
         },
         {
           Imagem: "img/certificados/9 - CertiProf - Fundamentos Na Lei Geral De Proteção De Dados.PNG",
-          Link: "https://www.dio.me/",
-          TituloLink: "Certificado com a Dio.",
-          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
-          Logo: "img/LogoBradesco.jpg",
-          NomeEmpresa: "Dio."
+          Link: "https://certiprof.com/pt/pages/free-new-entry-level-certification",
+          TituloLink: "Lei Geral De Proteção de Dados",
+          Subtitulo: "Confira aqui as 6 Certificações Gratuitas",
+          Logo: "img/logoEmpresas/CertiProf.png",
+          NomeEmpresa: "CertiProf"
         },
         {
           Imagem: "img/certificados/10 - DESEC - INTRODUÇÃO AO PENTEST NA PRÁTICA.jpg",
-          Link: "https://balta.io/",
-          TituloLink: "INTRODUÇÃO AO PENTEST NA PRÁTICA",
-          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
-          Logo: "img/LogoBradesco.jpg",
-          NomeEmpresa: "Balta.io"
+          Link: "https://desecsecurity.com/curso/introducao-pentest?utm_source=Google&utm_medium=CPL&utm_campaign=Perpetuo&utm_content=623626905067&gad_source=1&gclid=Cj0KCQiAw6yuBhDrARIsACf94RWiHdOAaqPTk3uLAIE4w7-2-RN9jEaRuFtawGXuxLVjTFhkixrwMI0aAl4BEALw_wcB",
+          TituloLink: "PENTEST NA PRÁTICA",
+          Subtitulo: "Confira aqui a Certificação de Introdução ao Pentest",
+          Logo: "img/logoEmpresas/desec_security_logo.jpg",
+          NomeEmpresa: "Desec"
         },
         {
           Imagem: "img/certificados/11 - IBM - CYBERSECURITY FUNDAMENTALS.PNG",
-          Link: "https://balta.io/",
-          TituloLink: "INTRODUÇÃO AO PENTEST NA PRÁTICA",
-          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
-          Logo: "img/LogoBradesco.jpg",
-          NomeEmpresa: "Balta.io"
+          Link: "https://skillsbuild.org/students/digital-credentials",
+          TituloLink: "Certificados em Tecnologia",
+          Subtitulo: "Confira aqui os Certificados EM tecnologia pela IBM",
+          Logo: "img/logoEmpresas/ibmLogo.png",
+          NomeEmpresa: "IBM"
         },
         {
           Imagem: "img/certificados/12 - Segurança Cibernética ISC2.PNG",
-          Link: "https://balta.io/",
-          TituloLink: "INTRODUÇÃO AO PENTEST NA PRÁTICA",
-          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
-          Logo: "img/LogoBradesco.jpg",
-          NomeEmpresa: "Balta.io"
+          Link: "https://www.isc2.org/certifications/cc",
+          TituloLink: "Segurança Cibernética ISC2	",
+          Subtitulo: "Confira aqui o certificado ISC2 em Cibersegurança",
+          Logo: "img/logoEmpresas/isc2Logo.jpg",
+          NomeEmpresa: "ISC2"
         },   
         {
           Imagem: "img/certificados/13 - SkillFront - ISO-IEC 27001 Information Security Associate.PNG",
-          Link: "https://balta.io/",
-          TituloLink: "INTRODUÇÃO AO PENTEST NA PRÁTICA",
-          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
-          Logo: "img/LogoBradesco.jpg",
-          NomeEmpresa: "Balta.io"
+          Link: "https://www.skillfront.com/ISO-IEC-27001-Information-Security-Associate",
+          TituloLink: "ISO/IEC 27001",
+          Subtitulo: "Confira aqui a Certificação pela SkillFront",
+          Logo: "img/logoEmpresas/sfLogo.jpg",
+          NomeEmpresa: "SkillFront"
         },
         {
           Imagem: "img/certificados/14 - SOLYD - Introdução ao Hacking e Pentest 2.0.PNG",
-          Link: "https://balta.io/",
-          TituloLink: "INTRODUÇÃO AO PENTEST NA PRÁTICA",
-          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
-          Logo: "img/LogoBradesco.jpg",
-          NomeEmpresa: "Balta.io"
+          Link: "https://solyd.com.br/cursos/introducao-ao-hacking-e-pentest-2/",
+          TituloLink: "INTRODUÇÃO AO HACKING E PENTEST",
+          Subtitulo: "Confira aqui a Certificação em Hacking e Pentest",
+          Logo: "img/logoEmpresas/solydLogo.png",
+          NomeEmpresa: "SOLYD"
         },
         {
           Imagem: "img/certificados/15 - SOLYD - PYTHON.PNG",
-          Link: "https://balta.io/",
-          TituloLink: "INTRODUÇÃO AO PENTEST NA PRÁTICA",
-          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
-          Logo: "img/LogoBradesco.jpg",
-          NomeEmpresa: "Balta.io"
+          Link: "https://solyd.com.br/cursos/python-basico/",
+          TituloLink: "PYTHON",
+          Subtitulo: "Confira aqui a Certificação em Python",
+          Logo: "img/logoEmpresas/solydLogo.png",
+          NomeEmpresa: "SOLYD"
         },
         {
           Imagem: "img/certificados/16 - WOMCY - Programa de Educação e Certificação de Segurança Cibernética.PNG",
-          Link: "https://balta.io/",
-          TituloLink: "INTRODUÇÃO AO PENTEST NA PRÁTICA",
-          Subtitulo: "Confira aqui os cursos Gratuitos na Area de Tecnologia",
-          Logo: "img/LogoBradesco.jpg",
-          NomeEmpresa: "Balta.io"
+          Link: "https://womcy.org/pt/womcy-microsoft-cybersecurity-education-certification-program-2023-pt/",
+          TituloLink: "SC-900 Microsoft",
+          Subtitulo: "Confira aqui a Certificação Segurança, Conformidade e Fundamentos da Microsoft",
+          Logo: "img/logoEmpresas/womcy_logo.jpg",
+          NomeEmpresa: "WOMCY"
+        },
+        {
+          Imagem: "img/certificados/17-Senac-e-Sebrae.png",
+          Link: "https://www.ead.senac.br/gratuito/",
+          TituloLink: "Certificados em Tecnologia",
+          Subtitulo: "Confira aqui os 6 Certificados em Tecnologia",
+          Logo: "img/logoEmpresas/Logo-do-Senac-e-Sebrae.png",
+          NomeEmpresa: "Senac"
+        }, {
+          Imagem: "img/logoEmpresas/FIAP.png",
+          Link: "https://on.fiap.com.br/local/programaeucapacito/",
+          TituloLink: "Certificados em Tecnologia",
+          Subtitulo: "Confira aqui os 20 cursos em Tecnologia",
+          Logo: "img/logoEmpresas/FIAP.png",
+          NomeEmpresa: "FIAP"
         },
 
 
