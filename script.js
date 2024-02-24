@@ -28,7 +28,7 @@
         {
           Imagem: "img/certificados/4 - IBSEC - CYBERSECURITY - REDES - INFORMÁTICA.png",
           Link: "https://certs.ibsec.com.br/",
-          TituloLink: "Certificações em Cibersegurança",
+          TituloLink: "Certificações em Cyber",
           Subtitulo: "Cnfira aqui as 12 Certifições em Cibersegurança",
           Logo: "img/logoEmpresas/IbsecLogo.png",
           NomeEmpresa: "IBSEC"
@@ -40,6 +40,45 @@
           Subtitulo: "Confira aqui as 3 Certificações Oracle",
           Logo: "img/logoEmpresas/OracleLogo.png",
           NomeEmpresa: "ORACLE"
+        },
+        {
+          Imagem: "img/certificados/17-Senac-e-Sebrae.png",
+          Link: "https://www.ead.senac.br/gratuito/",
+          TituloLink: "Certificados em Tecnologia",
+          Subtitulo: "Confira aqui os 6 Certificados em Tecnologia",
+          Logo: "img/logoEmpresas/Logo-do-Senac-e-Sebrae.png",
+          NomeEmpresa: "Senac"
+        }, {
+          Imagem: "img/logoEmpresas/FIAP.png",
+          Link: "https://on.fiap.com.br/local/programaeucapacito/",
+          TituloLink: "Certificados em Tecnologia",
+          Subtitulo: "Confira aqui os 20 cursos em Tecnologia",
+          Logo: "img/logoEmpresas/FIAP.png",
+          NomeEmpresa: "FIAP"
+        },
+       {
+          Imagem: "img/certificados/Curso em video.png",
+          Link: "https://www.cursoemvideo.com/",
+          TituloLink: "Certificados em Tecnologia",
+          Subtitulo: "Confira aqui os Certificados em Tecnologia do Gustavo Guanabara",
+          Logo: "img/logoEmpresas/cursoEmVideo.png",
+          NomeEmpresa: "Curso em Vídeo"
+        },
+         {
+          Imagem: "img/certificados/AWS + BOTICARIO.png",
+          Link: "https://aws-boticario.ontidwit.com/#/",
+          TituloLink: "Certificação AWS",
+          Subtitulo: "Confira aqui o Certificado do Grupo Boticario + AWS",
+          Logo: "img/logoEmpresas/awsLogo.png",
+          NomeEmpresa: "AWS"
+        },
+        {
+          Imagem: "img/certificados/IBM - CYBERSECURITY FUNDAMENTALS.PNG",
+          Link: "https://skillsbuild.org/students/digital-credentials",
+          TituloLink: "Certificados em Tecnologia",
+          Subtitulo: "Confira aqui os Certificados EM tecnologia pela IBM",
+          Logo: "img/logoEmpresas/ibmLogo.png",
+          NomeEmpresa: "IBM"
         },
         {
           Imagem: "img/certificados/6 - API Academy - Certificação em API.PNG",
@@ -69,25 +108,17 @@
           Imagem: "img/certificados/9 - CertiProf - Fundamentos Na Lei Geral De Proteção De Dados.PNG",
           Link: "https://certiprof.com/pt/pages/free-new-entry-level-certification",
           TituloLink: "Lei Geral De Proteção de Dados",
-          Subtitulo: "Confira aqui as 6 Certificações Gratuitas",
+          Subtitulo: "Confira as 6 Certificações Gratuitas",
           Logo: "img/logoEmpresas/CertiProf.png",
           NomeEmpresa: "CertiProf"
         },
         {
           Imagem: "img/certificados/10 - DESEC - INTRODUÇÃO AO PENTEST NA PRÁTICA.jpg",
           Link: "https://desecsecurity.com/curso/introducao-pentest?utm_source=Google&utm_medium=CPL&utm_campaign=Perpetuo&utm_content=623626905067&gad_source=1&gclid=Cj0KCQiAw6yuBhDrARIsACf94RWiHdOAaqPTk3uLAIE4w7-2-RN9jEaRuFtawGXuxLVjTFhkixrwMI0aAl4BEALw_wcB",
-          TituloLink: "PENTEST NA PRÁTICA",
+          TituloLink: "Pentest Na Prática ",
           Subtitulo: "Confira aqui a Certificação de Introdução ao Pentest",
           Logo: "img/logoEmpresas/desec_security_logo.jpg",
           NomeEmpresa: "Desec"
-        },
-        {
-          Imagem: "img/certificados/11 - IBM - CYBERSECURITY FUNDAMENTALS.PNG",
-          Link: "https://skillsbuild.org/students/digital-credentials",
-          TituloLink: "Certificados em Tecnologia",
-          Subtitulo: "Confira aqui os Certificados EM tecnologia pela IBM",
-          Logo: "img/logoEmpresas/ibmLogo.png",
-          NomeEmpresa: "IBM"
         },
         {
           Imagem: "img/certificados/12 - Segurança Cibernética ISC2.PNG",
@@ -108,7 +139,7 @@
         {
           Imagem: "img/certificados/14 - SOLYD - Introdução ao Hacking e Pentest 2.0.PNG",
           Link: "https://solyd.com.br/cursos/introducao-ao-hacking-e-pentest-2/",
-          TituloLink: "INTRODUÇÃO AO HACKING E PENTEST",
+          TituloLink: "Hacking e Pentest",
           Subtitulo: "Confira aqui a Certificação em Hacking e Pentest",
           Logo: "img/logoEmpresas/solydLogo.png",
           NomeEmpresa: "SOLYD"
@@ -125,25 +156,11 @@
           Imagem: "img/certificados/16 - WOMCY - Programa de Educação e Certificação de Segurança Cibernética.PNG",
           Link: "https://womcy.org/pt/womcy-microsoft-cybersecurity-education-certification-program-2023-pt/",
           TituloLink: "SC-900 Microsoft",
-          Subtitulo: "Confira aqui a Certificação Segurança, Conformidade e Fundamentos da Microsoft",
+          Subtitulo: "Certificação Segurança, Conformidade e Fundamentos da Microsoft",
           Logo: "img/logoEmpresas/womcy_logo.jpg",
           NomeEmpresa: "WOMCY"
         },
-        {
-          Imagem: "img/certificados/17-Senac-e-Sebrae.png",
-          Link: "https://www.ead.senac.br/gratuito/",
-          TituloLink: "Certificados em Tecnologia",
-          Subtitulo: "Confira aqui os 6 Certificados em Tecnologia",
-          Logo: "img/logoEmpresas/Logo-do-Senac-e-Sebrae.png",
-          NomeEmpresa: "Senac"
-        }, {
-          Imagem: "img/logoEmpresas/FIAP.png",
-          Link: "https://on.fiap.com.br/local/programaeucapacito/",
-          TituloLink: "Certificados em Tecnologia",
-          Subtitulo: "Confira aqui os 20 cursos em Tecnologia",
-          Logo: "img/logoEmpresas/FIAP.png",
-          NomeEmpresa: "FIAP"
-        },
+
 
 
         
