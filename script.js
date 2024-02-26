@@ -1,5 +1,4 @@
-
-    
+AOS.init();    
     var cards = [
         {
           Imagem: "img/certificados/1 - Hackes do Bem - Cibersegurança.png",
@@ -207,7 +206,9 @@ cards.forEach(function(card, index) {
   var link = document.createElement('a');
   link.target = "_blank";
   link.href = card.Link; 
-  link.classList.add('post-link'); // Adicione uma classe ao link se necessário
+  link.classList.add('post-link');
+  link.setAttribute('data-aos', 'fade-up');
+
   
   // Criando elementos HTML para o card
   var postBox = document.createElement('div');
