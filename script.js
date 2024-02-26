@@ -194,6 +194,8 @@ function showMoreCards() {
   document.getElementById('ver-mais-button').style.display = 'none';
   // Atualiza a variável de controle
   allCardsVisible = true;
+ // Atualiza o AOS para animar os novos cards adicionados
+  AOS.refresh();
 }
 
 
