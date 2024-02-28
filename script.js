@@ -218,6 +218,7 @@ cards.forEach(function(card, index) {
   
   var imagem = document.createElement('img');
   imagem.src = card.Imagem; 
+  imagem.classList.add('cardImg')
   
   var titulo = document.createElement('h2'); // Ou o nível de cabeçalho apropriado
   titulo.classList.add('post-title');
