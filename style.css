@@ -390,7 +390,7 @@ border-radius: 15px;
 
 
 
-
+/*Card Novo*/
 html {
     font-family: sans-serif;
     box-sizing: border-box;
@@ -443,7 +443,7 @@ html {
   .flip-box-back {
     background-size: cover;
     background-position: center;
-    border-radius: 8px;
+    border-radius: 15px;
     min-height: 475px;
     -ms-transition: transform 0.7s cubic-bezier(.4,.2,.2,1);
     transition: transform 0.7s cubic-bezier(.4,.2,.2,1);
@@ -497,7 +497,7 @@ html {
     position: absolute;
     left: 0;
     width: 100%;
-    padding: 60px;
+    padding: 20px;
     outline: 1px solid transparent;
     -webkit-perspective: inherit;
     perspective: inherit;
@@ -534,3 +534,14 @@ html {
     padding: 15px 20px;
     text-transform: uppercase;
   }
+
+
+
+
+
+
+
+
+
+
+  
