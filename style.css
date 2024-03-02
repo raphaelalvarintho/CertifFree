@@ -413,7 +413,7 @@ html {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    padding: 35px 15px;
+    padding: 100px 300px;
     width: 100%;
   }
   
@@ -542,7 +542,7 @@ html {
 
 
 
-
+/*REDES SOCIAIS DE BAIXO*/
   .social-card {
     height: fit-content;
     width: fit-content;
