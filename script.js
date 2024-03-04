@@ -319,7 +319,12 @@ window.onresize = function(event) {
 
 
 
-
+/* Demo purposes only */
+$(".hover").mouseleave(
+  function() {
+    $(this).removeClass("hover");
+  }
+);
 
 
 
