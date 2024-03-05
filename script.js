@@ -313,18 +313,32 @@ window.onresize = function(event) {
 
 
 
-
-
-
-
-
-
 /* Demo purposes only */
 $(".hover").mouseleave(
   function() {
     $(this).removeClass("hover");
   }
 );
+
+
+// qrCode
+function copyQRCode() {
+  var qrCodeValue = "d39f0f46-dfa5-4112-9a55-c4bb7c4d0976";
+  var tempInput = document.createElement("input");
+  tempInput.value = qrCodeValue;
+  document.body.appendChild(tempInput);
+  tempInput.select();
+  document.execCommand("copy");
+  document.body.removeChild(tempInput);
+  
+  Swal.fire({
+    icon: 'success',
+    title: 'Código do QR Code copiado!',
+    showConfirmButton: false,
+    timer: 1500
+  });
+}
+
 
 
 
