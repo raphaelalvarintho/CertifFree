@@ -99,7 +99,7 @@ AOS.init();
           Imagem: "img/certificados/7 - Certificado OracleAlura.png",
           Link: "https://www.oracle.com/br/education/oracle-next-education/",
           TituloLink: "Certificado Oracle + Alura.",
-          Subtitulo: "Mias de 100 Certificados em Tecnologia ministrados pela Alura",
+          Subtitulo: "Mais de 100 Certificados em Tecnologia ministrados pela Alura",
           Logo: "img/logoEmpresas/OracleLogo.png",
           NomeEmpresa: "Alura"
         },
