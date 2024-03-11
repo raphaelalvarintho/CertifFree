@@ -71,6 +71,30 @@ AOS.init();
           Logo: "img/logoEmpresas/ifLogo.webp",
           NomeEmpresa: "Instituto Federal"
         },
+        {
+          Imagem: "img/certificados/Google-Cloud-governmnt.png",
+          Link: "https://cloud.google.com/innovators/getcertified?hl=pt_br",
+          TituloLink: "Certificado Google Cloud",
+          Subtitulo: "Confira aqui os 4 Certificados em Googlr Cloud",
+          Logo: "img/logoEmpresas/google cloud.png",
+          NomeEmpresa: "Google"
+        },
+        {
+          Imagem: "img/certificados/cisco.jpg",
+          Link: "https://skillsforall.com/en",
+          TituloLink: "Certificados CISCO",
+          Subtitulo: "Confira aqui os Certificados Cisco",
+          Logo: "img/logoEmpresas/cisco_logo.png",
+          NomeEmpresa: "Cisco"
+        },
+        {
+          Imagem: "img/certificados/Santander-Bootcamp.jpg",
+          Link: "https://app.santanderopenacademy.com/pt-BR/program/santander-bootcamp-2024",
+          TituloLink: "Certificado em Desenvolvimeto",
+          Subtitulo: "Certificado em desenvolvimento - Incrições até 08/04/2024.",
+          Logo: "img/logoEmpresas/logo santander.jpg",
+          NomeEmpresa: "Santander/Opem Academy"
+        },
          {
           Imagem: "img/certificados/AWS + BOTICARIO.png",
           Link: "https://aws-boticario.ontidwit.com/#/",
