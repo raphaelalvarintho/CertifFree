@@ -75,7 +75,7 @@ AOS.init();
           Imagem: "img/certificados/Google-Cloud-governmnt.png",
           Link: "https://cloud.google.com/innovators/getcertified?hl=pt_br",
           TituloLink: "Certificado Google Cloud",
-          Subtitulo: "Confira aqui os 4 Certificados em Googlr Cloud",
+          Subtitulo: "Confira aqui os 4 Certificados em Google Cloud",
           Logo: "img/logoEmpresas/google cloud.png",
           NomeEmpresa: "Google"
         },
