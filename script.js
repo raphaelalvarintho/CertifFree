@@ -90,7 +90,7 @@ AOS.init();
         {
           Imagem: "img/certificados/Santander-Bootcamp.jpg",
           Link: "https://app.santanderopenacademy.com/pt-BR/program/santander-bootcamp-2024",
-          TituloLink: "Certificado em Desenvolvimeto",
+          TituloLink: "Certificado em Programação",
           Subtitulo: "Certificado em desenvolvimento - Incrições até 08/04/2024.",
           Logo: "img/logoEmpresas/logo santander.jpg",
           NomeEmpresa: "Santander/Opem Academy"
