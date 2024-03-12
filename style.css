@@ -12,7 +12,7 @@
 
 :root{
     --container-color: #1a1e21 ;
-    --second-color: #ee6707 ;
+    --second-color: #dd6300 ;
     --text-color: #172317 ;
     --bg-color: #f9f9f9 ;
 }
@@ -641,7 +641,7 @@ html {
     width: fit-content;
     padding: 0 1em;
     line-height: 1.6em;
-    border: 1px solid;
+    border: 6px solid;
     color: #fff;
     background: 
       conic-gradient(from   45deg at left ,var(--c) 25%,#0000 0) 0,
@@ -694,7 +694,7 @@ html {
   width: 100%;
   background-color: #ffffff;
   border-radius: 15px;
-  border-top: 5px solid #d2652d;
+  border-top: 5px solid #dd6300;
 }
 
 .snip1533 *,
@@ -715,7 +715,7 @@ html {
   background-color: #fff;
   border-radius: 100%;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
-  color: #d2652d;
+  color: #dd6300;
   content: "\f10e";
   font-family: 'FontAwesome';
   font-size: 32px;
